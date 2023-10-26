@@ -176,7 +176,7 @@ footer{
 }
 .footer-div{
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
     padding: 50px; 
 }
 ul{
@@ -190,7 +190,7 @@ ul{
   line-height: 32px
 }
 .footer-col{
-    width: 25%;
+    width: 22%;
 }
 .footer-col h3{
     position: relative;
