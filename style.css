@@ -1,4 +1,3 @@
-
 main {
     background-color: #FAD89D;
     max-width: 1260px;
@@ -147,4 +146,49 @@ svg {
     line-height: normal;
     text-transform: uppercase;
     text-decoration: none;
+}
+h1{
+    color: #FFF;
+    font-family: ultra;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px; /* 120% */
+}
+h4{
+    color: #FFF;
+
+font-family: oswald;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 200% */
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: auto;
+    background-color: #171B1B;;
+    padding: 60px 10%;
+}
+ul{
+  font-family: oswald;
+  list-style: none;
+  color: #FFF;
+  font-family: sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px
+}
+.footer-col{
+    width: 25%;
+}
+.footer-col h3{
+    position: relative;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 22px;
 }
