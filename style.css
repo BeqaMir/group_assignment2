@@ -58,6 +58,7 @@ svg {
     align-items: center;
     justify-content: space-evenly;
     margin-top: 170px;
+    padding-battom: 150px;
 }
 #img1{
     width: 420px;
@@ -167,15 +168,15 @@ letter-spacing: 3px;
 text-transform: uppercase;
 }
 footer{
-    margin-top: auto;
+    margin: auto;
     background-color: #171B1B;
     max-width: 1260px;
     width: 90%;
-    margin-top: 150px;
 }
 .footer-div{
-     display: flex;
+    display: flex;
     flex-wrap: wrap;
+    padding: 50px; 
 }
 ul{
   font-family: oswald;
