@@ -168,11 +168,10 @@ text-transform: uppercase;
 }
 footer{
     margin-top: auto;
-    background-color: #171B1B;;
-    padding: 60px 10%;
+    background-color: #171B1B;
     max-width: 1260px;
     width: 90%;
-    margin: auto;
+    margin-top: 150px;
 }
 .footer-div{
      display: flex;
