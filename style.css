@@ -167,11 +167,16 @@ letter-spacing: 3px;
 text-transform: uppercase;
 }
 footer{
-    display: flex;
-    flex-wrap: wrap;
     margin-top: auto;
     background-color: #171B1B;;
     padding: 60px 10%;
+    max-width: 1260px;
+    width: 90%;
+    margin: auto;
+}
+.footer-div{
+     display: flex;
+    flex-wrap: wrap;
 }
 ul{
   font-family: oswald;
