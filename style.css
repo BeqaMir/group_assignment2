@@ -29,6 +29,7 @@ main {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 } 
 .box {
     padding: 20px;
