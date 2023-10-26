@@ -58,6 +58,7 @@ svg {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin-top: 170px;
     padding-battom: 150px;
 }
@@ -177,6 +178,7 @@ footer{
 .footer-div{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     padding: 50px; 
 }
 ul{
