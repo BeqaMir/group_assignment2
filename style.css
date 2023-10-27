@@ -204,3 +204,20 @@ a {
     font-weight: 400;
     font-size: 22px;
 }
+.batton-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+.batton-footer p{
+    color: #fffff;
+    font-family: sans;
+    font-size: 16px;
+}
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    font-size: 16px;
+}
