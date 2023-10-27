@@ -40,15 +40,6 @@ svg {
     max-width: 120px;
     max-height: 24px;
 }
-.images {
-    display:flex;
-    justify-content: space-between;
-}
-.circle {
-    width:100px;
-    height: 100px;
-    border-radius: 50%;
-    background-color: #D8D8D8;
 .box h3 {
     font-family: oswald;
     max-width: 89px;
